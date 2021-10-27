@@ -2,9 +2,12 @@
 rozpędzone do określonej prędkości na wykresie energii kinetycznej obiektu o
 masie x rozpędzonego do prędkości światłą"""
 
-# Poprawka żeby prawidłowo wykonać to zadanie potrzebujemy bardziej
-# skomplikowanego wzoru. gdyż wzór (m*v**2)/2 jest uproszczony i nie da się
+# Poprawka żeby prawidłowo wykonać to zadanie potrzebujemy relatywistycznej
+# postaci wzoru. gdyż wzór (
+# m*v**2)/2 jest uproszczony i nie da się
 # go zastosować przy prędkości światła... Do dokończenia
+
+
 
 
 import numpy as np
